@@ -29,7 +29,7 @@ class Database
         {
             if(self::$pdo===null)
             {
-                $pdo= new PDO('mysql:host=localhost:3306;dbname=abi','root', '');
+                $pdo= new PDO('mysql:host=localhost:3306;dbname=abi','root2', 'totomegalo');
                 $pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
                 self::$pdo=$pdo;
             }
