@@ -1,7 +1,9 @@
 ## Dans les commits add on va ignorer le fichier "Database" qui contient la config de connexion
 ## personnelle à chacun.
 
-/PROJET-TEST/Work/Database.php
+/Work/Database.php
+
+
 
 ## et puis hop le dossier ".vscode"
 
