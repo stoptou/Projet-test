@@ -1,7 +1,7 @@
 ## Dans les commits add on va ignorer le fichier "Database" qui contient la config de connexion
 ## personnelle à chacun.
 
-/Projet-ABI/model/Database.php
+/PROJET-TEST/Work/Database.php
 
 ## et puis hop le dossier ".vscode"
 
