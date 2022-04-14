@@ -1,3 +1,9 @@
 # Logs and Cache files
 /Work/Database.php
+/Projet-test/Work/Database.php
+./Projet-test/Work/Database.php
+./Work/Database.php
+Projet-test/Work/Database.php
+Work/Database.php
+**/Database.php
 
