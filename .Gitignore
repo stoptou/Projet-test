@@ -1,10 +1,3 @@
-## Dans les commits add on va ignorer le fichier "Database" qui contient la config de connexion
-## personnelle à chacun.
+# Logs and Cache files
+/Work/Database.php
 
-**/Database.php
-
-
-
-## et puis hop le dossier ".vscode"
-
-.vscode/*
